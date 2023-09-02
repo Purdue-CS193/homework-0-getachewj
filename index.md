@@ -1,3 +1,7 @@
+# Joseph's First CS193 Homework
+- I like that 193 is taught by other students.
+- I like that I can learn about how to make websites.
+- I like how there aren't many assingments and we have a lot of time to do them.
 ## Welcome to Joseph's Website
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
